@@ -1,2 +1,4 @@
 Console.WriteLine("add two number");
 int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("subtract two number");
+int x = Convert.ToInt32(Console.ReadLine());
